@@ -1,0 +1,7 @@
+scenedetect 
+docarray[hnswlib] 
+pillow 
+torch 
+torchvision 
+matplotlib 
+opencv-python-headless
